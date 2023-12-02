@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#demo {
+  color: darkslateblue;
+  background-color: lemonchiffon;
+  text-align: center;
+  font-size: 0.9rem;
+  font-weight: bold;
+}
