@@ -1,0 +1,37 @@
+body {
+  margin: 0;
+  background-color: #001d3d;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+#home,
+#guest {
+  width: 110px;
+  height: 70px;
+  background-color: #000000;
+  color: #f94f6d;
+  text-align: center;
+  padding-top: 30px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+.heading {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  color: #fff;
+}
+
+button {
+  background-color: #001d3d;
+  color: #9aabd8;
+  border: 2px solid #9aabd8;
+  border-radius: 3px;
+  margin-right: 3px;
+}
